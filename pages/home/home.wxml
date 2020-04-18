@@ -1,0 +1,3 @@
+<!--pages/heme/home.wxml-->
+<text class="hello">hello world</text>
+<button >btn</button>

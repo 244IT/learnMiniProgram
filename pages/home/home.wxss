@@ -1,0 +1,5 @@
+/* pages/heme/home.wxss */
+
+.hello{
+  color: red;
+}
